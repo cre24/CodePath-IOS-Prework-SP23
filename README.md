@@ -2,11 +2,9 @@
 
 ### App Description
 
-`TODO://` Add app description
+An app that prompts users to input their information such as first name, last name, what school they attend, and favorite hobbies. 
 
 ### App Walk-though
-
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
 <img src="https://user-images.githubusercontent.com/69821183/215299084-822372ac-7db7-4f4f-bd71-6ba39258fc54.gif" width=200><br>
 
