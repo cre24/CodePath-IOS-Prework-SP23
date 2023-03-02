@@ -8,8 +8,6 @@ An app that prompts users to input their information such as first name, last na
 
 <img src="https://user-images.githubusercontent.com/69821183/215299084-822372ac-7db7-4f4f-bd71-6ba39258fc54.gif" width=200><br>
 
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
